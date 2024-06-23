@@ -1,0 +1,10 @@
+<html>
+<body bgcolor="grey" text="gold">
+<center> <h1>jupiter<h1></center>
+<hr>
+<p><h3>
+Jupiter is a world of extremes. It's the largest planet in our solar system – if it were a hollow shell, 1,000 Earths could fit inside. It's also the oldest planet, forming from the dust and gases left over from the Sun's formation 4.5 billion years ago. But it has the shortest day in the solar system, taking only 10.5 hours to spin around once on its axis.
+</p></h3>
+<img src="C:\Users\Dh0043tu\Desktop\Paper 3\Images\jupiter.jpg">
+</body>
+</html>
